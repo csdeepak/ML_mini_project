@@ -1,4 +1,4 @@
-# 🌊 Sediment Particle Size Distribution Prediction
+#  Sediment Particle Size Distribution Prediction
 
 This repository contains the **Machine Learning Mini Project** for predicting sediment particle size distributions (PSD) — specifically the **median particle diameter (d50)** and **variance (σ²)** — from co-located hydrodynamic and water-quality measurements.
 

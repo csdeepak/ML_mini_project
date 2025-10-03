@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project-specific ignores ---
+
+# Data (don't push raw/large files)
+data/raw/
+data/*.csv
+data/*.xlsx
+data/*.zip
+data/*.h5
+
+# Model artifacts
+*.pkl
+*.joblib
+*.sav
+
+# Figures (if regenerated each run, optional)
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+
